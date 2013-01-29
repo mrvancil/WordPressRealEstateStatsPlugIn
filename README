@@ -1,0 +1,16 @@
+README
+
+1.29.2013
+
+This plugin was developed for my most awesome wife and her wordpress site.
+
+We needed a way to add statistics for a local area.  The administrator
+of the wordpress site can manually update the statistics each year
+for thier local areas.  Generally these are pulled from local MLS 
+systems.
+
+The charting component used is AMCharts, it is awesome and totally html5 ready.
+
+You can see this working here:
+http://www.michellevancil.com/sales-statistics/
+http://www.michellevancil.com/graphs/
